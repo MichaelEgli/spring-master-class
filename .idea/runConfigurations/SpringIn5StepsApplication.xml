@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringIn5StepsApplication" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/spring-in-5-steps/target/spring-in-5-steps-0.0.1-SNAPSHOT.jar" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\Michael\java_workplace\spring-master-class" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
