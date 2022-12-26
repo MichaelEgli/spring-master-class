@@ -8,7 +8,7 @@ public class SpringIn5StepsApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Egli");
-		BinarySearchImpl binarySearch = new BinarySearchImpl();
+		BinarySearchImpl binarySearch = new BinarySearchImpl(new QuickSortAlgorithm());
 		int result = binarySearch.binarySearch(new int[] {12, 4, 6}, 3);
 		System.out.println("result:" + result);
 		SpringApplication.run(SpringIn5StepsApplication.class, args);
