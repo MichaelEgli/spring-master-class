@@ -10,7 +10,7 @@ import org.springframework.context.ApplicationContext;
 @SpringBootApplication
 public class SpringIn5StepsScopeApplication {
 
-	static Logger LOGGER = LoggerFactory.getLogger(SpringIn5StepsScopeApplication.class);
+	private static Logger LOGGER = LoggerFactory.getLogger(SpringIn5StepsScopeApplication.class);
 
 	public static void main(String[] args) {
 
