@@ -20,7 +20,7 @@ public class SpringIn5StepsCdiApplication {
 
 		SomeCdiBusiness business = applicationContext.getBean(SomeCdiBusiness.class);
 
-		LOGGER.info("{} cdi business", business);
+		LOGGER.info("{} cdi business, {}", business, business.getSomeCDIDAO());
 
 	}
 
