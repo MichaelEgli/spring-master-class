@@ -1,7 +1,6 @@
 package com.in28minutes.spring.basics.springin5steps;
 
 import com.in28minutes.spring.basics.springin5steps.properties.SomeExternalService;
-import com.in28minutes.spring.basics.springin5steps.scope.PersonDAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ConfigurableApplicationContext;
