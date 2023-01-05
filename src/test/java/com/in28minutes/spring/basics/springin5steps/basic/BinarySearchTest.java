@@ -1,5 +1,6 @@
-package com.in28minutes.spring.basics.springin5steps;
+package com.in28minutes.spring.basics.springin5steps.basic;
 
+import com.in28minutes.spring.basics.springin5steps.SpringIn5StepsBasicApplication;
 import com.in28minutes.spring.basics.springin5steps.basic.BinarySearchImpl;
 import org.junit.Test;
 import org.junit.runner.RunWith;
